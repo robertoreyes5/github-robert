@@ -1,0 +1,21 @@
+{
+  "type" : "struct",
+  "fields" : [ {
+    "name" : "uuid",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "Deal_Id",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "Ad_Group",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }]
+}
+
+
